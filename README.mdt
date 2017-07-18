@@ -1,0 +1,6 @@
+# Self Driving Car
+
+-This project is made on a 4tronit Initio.
+-The car is able to follow a line using the infrared line sensors.
+-The code allows the car to start when it detects a human face and it does stop when it detects a stop sign.
+-The face and stop sign detection is realized using Haar Cascades.
